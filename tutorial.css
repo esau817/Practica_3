@@ -1,0 +1,44 @@
+*{font-family: arial;}
+.nota{
+    font-style: oblique;
+    font-weight: bold;
+    color: #FF0000		
+}
+.Parrafo{
+    font-size: 0.7cm;
+    font-weight: bold; 
+}
+.mPx{
+    font-size: 20px;
+}
+.mEm{
+    font-size: 5em;
+}
+.mEm2{
+    font-size: 1em;
+}
+.mEm3{
+    font-size: 1.5em;
+}
+.mEx{
+    font-size: 3ex;
+}
+.mIn{
+    font-size: 0.5in;
+}
+.mCm{
+    font-size: 2cm
+}
+.m-Mm{
+    font-size: 3mm;
+}
+.mPt{
+    font-size: 10pt;
+}
+.mPc{
+    font-size: 1.5pc;
+}
+.notaColor{
+    color:#008000;
+    font-weight: bold;	
+}
